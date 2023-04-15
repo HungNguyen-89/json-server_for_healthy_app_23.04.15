@@ -1,0 +1,211 @@
+{
+    "users": [
+        {
+            "id": "admin",
+            "name": "Hung Nguyen",
+            "password": "123456",
+            "email": "hungnguyenhust89@gmail.com",
+            "phone": "0938539589",
+            "country": "vietnam",
+            "address": "Ha Noi",
+            "gender": "male",
+            "role": "manager"
+        },
+        {
+            "id": "user",
+            "name": "Hung Nguyen",
+            "password": "123456",
+            "email": "hungnguyenhust89@gmail.com",
+            "phone": "0938539589",
+            "country": "vietnam",
+            "address": "Ha Noi",
+            "gender": "male",
+            "role": "user"
+        }
+    ],
+    "component-hex-btn": [
+        {
+            "id": 1,
+            "icon": "./images/component-hex-btn/icon_knife.png",
+            "title": "Morning"
+        }
+    ],
+    "food-history": [
+        {
+            "id": 1,
+            "date": "05.21",
+            "title": "Morning",
+            "image": "./images/Home/food-history/m01.jpg"
+        },
+        {
+            "id": 2,
+            "date": "05.21",
+            "title": "Lunch",
+            "image": "./images/Home/food-history/l03.jpg"
+        },
+        {
+            "id": 3,
+            "date": "05.21",
+            "title": "Dinner",
+            "image": "./images/Home/food-history/d01.jpg"
+        },
+        {
+            "id": 4,
+            "date": "05.21",
+            "title": "Snack",
+            "image": "./images/Home/food-history/l01.jpg"
+        },
+        {
+            "id": 5,
+            "date": "05.20",
+            "title": "Morning",
+            "image": "./images/Home/food-history/m01.jpg"
+        },
+        {
+            "id": 6,
+            "date": "05.20",
+            "title": "Lunch",
+            "image": "./images/Home/food-history/l02.jpg"
+        },
+        {
+            "id": 7,
+            "date": "05.20",
+            "title": "Dinner",
+            "image": "./images/Home/food-history/d02.jpg"
+        },
+        {
+            "id": 8,
+            "date": "05.20",
+            "title": "Snack",
+            "image": "./images/Home/food-history/s01.jpg"
+        }
+    ],
+    "component-record": [
+        {
+            "id": 1,
+            "title": "BODY RECORD",
+            "button": "自分のカラダの記録",
+            "image": "./images/MyRecord/component-record/MyRecommend-1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "MY EXERCISE",
+            "button": "自分の運転の記録",
+            "image": "./images/MyRecord/component-record/MyRecommend-2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "MY DIARY",
+            "button": "自分の日記",
+            "image": "./images/MyRecord/component-record/MyRecommend-3.jpg"
+        }
+    ],
+    "my-exercise": [
+        {
+            "id": 1,
+            "title": "家事全般（立位・軽い）",
+            "kcal": "26kcal",
+            "time": "10 min"
+        },
+        {
+            "id": 2,
+            "title": "家事全般（立位・軽い）",
+            "kcal": "26kcal",
+            "time": "10 min"
+        },
+        {
+            "id": 3,
+            "title": "家事全般（立位・軽い）",
+            "kcal": "26kcal",
+            "time": "10 min"
+        },
+        {
+            "id": 4,
+            "title": "家事全般（立位・軽い）",
+            "kcal": "26kcal",
+            "time": "10 min"
+        },
+        {
+            "id": 5,
+            "title": "家事全般（立位・軽い）",
+            "kcal": "26kcal",
+            "time": "10 min"
+        },
+        {
+            "id": 6,
+            "title": "家事全般（立位・軽い）",
+            "kcal": "26kcal",
+            "time": "10 min"
+        },
+        {
+            "id": 7,
+            "title": "家事全般（立位・軽い）",
+            "kcal": "26kcal",
+            "time": "10 min"
+        },
+        {
+            "id": 8,
+            "title": "家事全般（立位・軽い）",
+            "kcal": "26kcal",
+            "time": "10 min"
+        }
+    ],
+    "my-diary": [
+        {
+            "id": 1,
+            "date": "2021.05.21",
+            "time": "23:25",
+            "title": "私の日記の記録が一部表示されます。",
+            "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト..."
+        },
+        {
+            "id": 2,
+            "date": "2021.05.21",
+            "time": "23:25",
+            "title": "私の日記の記録が一部表示されます。",
+            "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト..."
+        },
+        {
+            "id": 3,
+            "date": "2021.05.21",
+            "time": "23:25",
+            "title": "私の日記の記録が一部表示されます。",
+            "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト..."
+        },
+        {
+            "id": 4,
+            "date": "2021.05.21",
+            "time": "23:25",
+            "title": "私の日記の記録が一部表示されます。",
+            "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト..."
+        },
+        {
+            "id": 5,
+            "date": "2021.05.21",
+            "time": "23:25",
+            "title": "私の日記の記録が一部表示されます。",
+            "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト..."
+        },
+        {
+            "id": 6,
+            "date": "2021.05.21",
+            "time": "23:25",
+            "title": "私の日記の記録が一部表示されます。",
+            "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト..."
+        },
+        {
+            "id": 7,
+            "date": "2021.05.21",
+            "time": "23:25",
+            "title": "私の日記の記録が一部表示されます。",
+            "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト..."
+        },
+        {
+            "id": 8,
+            "date": "2021.05.21",
+            "time": "23:25",
+            "title": "私の日記の記録が一部表示されます。",
+            "description": "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト..."
+        }
+    ]
+}
